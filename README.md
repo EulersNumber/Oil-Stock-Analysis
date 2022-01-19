@@ -13,6 +13,6 @@ Course project on Machine Learning in the financial markets.
 - Univariate and bivariate analysis (seaborn)
 
 ## Models (scikit learn)
-- KMeans Clustering within stocks
+- KMeans clustering
 - Ordinary Linear Regression
 - Random Forest Regression
