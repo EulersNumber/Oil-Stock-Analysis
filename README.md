@@ -5,7 +5,7 @@ Course project on Machine Learning in the financial markets.
 ## Data manipulation
 
 - Data wrangling with pandas
-- MinMax scaling with sckikit-learn tools
+- MinMax scaling with scikit-learn
 
 ## Data Visualization
 
